@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "static/**/*.js",
+      "source": "CarAppWeb/static/**/*.js",
       "headers": [
         {
           "key": "Cache-Control",
